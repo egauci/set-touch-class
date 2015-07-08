@@ -1,0 +1,24 @@
+{
+  "name": "set-touch-class",
+  "version": "0.1.0",
+  "description": "Set HTML element class based on touch support",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/egauci/set-touch-class.git"
+  },
+  "keywords": [
+    "touch",
+    "CSS",
+    "className"
+  ],
+  "author": "Ed Gauci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egauci/set-touch-class/issues"
+  },
+  "homepage": "https://github.com/egauci/set-touch-class#readme",
+  "dependencies": {
+    "has-touch": "^1.0.1"
+  }
+}
