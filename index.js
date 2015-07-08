@@ -1,4 +1,4 @@
-var hasClass = require('has-class');
+var hasClass = require('has-touch');
 var cl = document.documentElement.classList;
 
 if (hasClass) {
