@@ -1,6 +1,6 @@
 {
   "name": "set-touch-class",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Set HTML element class based on touch support",
   "main": "index.js",
   "repository": {
