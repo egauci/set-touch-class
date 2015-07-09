@@ -1,7 +1,7 @@
-var hasClass = require('has-touch');
+var isTouch = require('has-touch');
 var cl = document.documentElement.classList;
 
-if (hasClass) {
+if (isTouch) {
   cl.add('touch');
   cl.remove('no-touch');
 } else {
